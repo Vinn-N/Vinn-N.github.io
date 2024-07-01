@@ -1,0 +1,16 @@
+body {
+	visibility: hidden
+}
+
+.navmargin {
+	margin-top: 2em;
+}
+
+h2 {
+    white-space: normal;
+}
+
+.btn-primary, .link-primary {
+    background-color: #00ff00; /* Green */
+    color: #ffffff; /* White */
+}
